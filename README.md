@@ -1,7 +1,7 @@
-### Hey there, welcome to my GitHub 👋
 
 ![Binary](banner.png)
 
+### Well hello there wanderer, welcome to my GitHub 👋
 ## Get to know me better!
 - :mortar_board: I’m a 3rd year Computer Engineering student from The University of British Columbia
 - :computer: I have worked at Unity Technologies as a Software Developer during my Co-op
