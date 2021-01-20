@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Tawsif's github stats](https://github-readme-stats.vercel.app/api?username=T4w51f)](https://github.com/anuraghazra/github-readme-stats)
+[![Tawsif's github stats](https://github-readme-stats.vercel.app/api?username=T4w51f&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
