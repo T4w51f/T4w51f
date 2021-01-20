@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Tawsif's github stats](https://github-readme-stats.vercel.app/api?username=T4w51f)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **T4w51f/T4w51f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
