@@ -1,15 +1,12 @@
 
 ![Binary](banner.png)
 
-### Well hello there wanderer, welcome to my GitHub 👋
 ## Get to know me better!
 - :mortar_board: I’m a 4th year Computer Engineering student from The University of British Columbia
 - :computer: I have worked at Unity Technologies as a Software Developer and at Microchip Technology as a Product Design Engineer during my Co-op work terms
 - :mag: I am currently searching for full-time opportunities in Software Engineering
 - 💬 Ask me about programming, video games, anime, movies!
 - 📫 How to reach me: You can contact me at my email: tawsifhasan1998@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I might as well be a mutant because of the number of times my iris changed colors :eyes:
 
 ## Here are some of my GitHub stats
 [![Tawsif's github stats](https://github-readme-stats.vercel.app/api?username=T4w51f&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
