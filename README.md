@@ -3,9 +3,9 @@
 
 ### Well hello there wanderer, welcome to my GitHub 👋
 ## Get to know me better!
-- :mortar_board: I’m a 3rd year Computer Engineering student from The University of British Columbia
-- :computer: I have worked at Unity Technologies as a Software Developer during my Co-op
-- :mag: I am currently searching for a 4-months summer internship/Co-op in Software Engineering or Development, Embedded Systems, Firmware or Hardware Development
+- :mortar_board: I’m a 4th year Computer Engineering student from The University of British Columbia
+- :computer: I have worked at Unity Technologies as a Software Developer and at Microchip Technology as a Product Design Engineer during my Co-op work terms
+- :mag: I am currently searching for full-time opportunities in Software Engineering
 - 💬 Ask me about programming, video games, anime, movies!
 - 📫 How to reach me: You can contact me at my email: tawsifhasan1998@gmail.com
 - 😄 Pronouns: He/Him
